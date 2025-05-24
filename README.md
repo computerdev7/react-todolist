@@ -12,6 +12,7 @@ There are various issues inside this codebase that I will fix in the future. Mos
 4. Maybe more.....
 
 ✅ Steps to Run This Project for Production:
+
 First, create an .env file in the root directory.
 
 Then run npm run build.
